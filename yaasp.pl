@@ -11,7 +11,7 @@
 # REQUIREMENTS: ---
 #         BUGS: ---
 #        NOTES: ---
-#       AUTHOR: sfigway
+#       AUTHOR: gnebbia
 # ORGANIZATION:
 #      VERSION: 1.0
 #      CREATED: 08/04/2016 06:59:25 PM
